@@ -1,0 +1,22 @@
+{
+  "name": "vst-guide-config",
+  "version": "0.0.1",
+  "description": "A library for managing the global user configuration of VST Guide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bmcclure/node-vst-guide-config.git"
+  },
+  "author": "Ben McClure <ben.mcclure@gmail.com> (http://benmcclure.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmcclure/node-vst-guide-config/issues"
+  },
+  "homepage": "https://github.com/bmcclure/node-vst-guide-config#readme",
+  "dependencies": {
+    "configstore": "^3.1.1"
+  }
+}
