@@ -1,6 +1,6 @@
 {
   "name": "vst-guide-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library for managing the global user configuration of VST Guide.",
   "main": "index.js",
   "scripts": {
