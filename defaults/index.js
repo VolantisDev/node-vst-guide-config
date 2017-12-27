@@ -11,7 +11,7 @@ var defaults = {
 }
 
 if (osDefaults) {
-  defaults = defaults.push(osDefaults)
+  defaults = Object.assign({}, defaults, osDefaults)
 }
 
 module.exports = defaults
